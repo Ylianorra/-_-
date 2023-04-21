@@ -1,0 +1,15 @@
+C:\Users\YGrigorenko\OneDrive - ООО МОНТ\Рабочий стол\С#_1\bin\Debug\net6.0\С#_1.exe
+C:\Users\YGrigorenko\OneDrive - ООО МОНТ\Рабочий стол\С#_1\bin\Debug\net6.0\С#_1.deps.json
+C:\Users\YGrigorenko\OneDrive - ООО МОНТ\Рабочий стол\С#_1\bin\Debug\net6.0\С#_1.runtimeconfig.json
+C:\Users\YGrigorenko\OneDrive - ООО МОНТ\Рабочий стол\С#_1\bin\Debug\net6.0\С#_1.dll
+C:\Users\YGrigorenko\OneDrive - ООО МОНТ\Рабочий стол\С#_1\bin\Debug\net6.0\С#_1.pdb
+C:\Users\YGrigorenko\OneDrive - ООО МОНТ\Рабочий стол\С#_1\obj\Debug\net6.0\С#_1.csproj.AssemblyReference.cache
+C:\Users\YGrigorenko\OneDrive - ООО МОНТ\Рабочий стол\С#_1\obj\Debug\net6.0\С#_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YGrigorenko\OneDrive - ООО МОНТ\Рабочий стол\С#_1\obj\Debug\net6.0\С#_1.AssemblyInfoInputs.cache
+C:\Users\YGrigorenko\OneDrive - ООО МОНТ\Рабочий стол\С#_1\obj\Debug\net6.0\С#_1.AssemblyInfo.cs
+C:\Users\YGrigorenko\OneDrive - ООО МОНТ\Рабочий стол\С#_1\obj\Debug\net6.0\С#_1.csproj.CoreCompileInputs.cache
+C:\Users\YGrigorenko\OneDrive - ООО МОНТ\Рабочий стол\С#_1\obj\Debug\net6.0\С#_1.dll
+C:\Users\YGrigorenko\OneDrive - ООО МОНТ\Рабочий стол\С#_1\obj\Debug\net6.0\refint\С#_1.dll
+C:\Users\YGrigorenko\OneDrive - ООО МОНТ\Рабочий стол\С#_1\obj\Debug\net6.0\С#_1.pdb
+C:\Users\YGrigorenko\OneDrive - ООО МОНТ\Рабочий стол\С#_1\obj\Debug\net6.0\С#_1.genruntimeconfig.cache
+C:\Users\YGrigorenko\OneDrive - ООО МОНТ\Рабочий стол\С#_1\obj\Debug\net6.0\ref\С#_1.dll
